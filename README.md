@@ -1,5 +1,8 @@
 # WayEscape-2D-Unity-Game-Demo
 - Download Demo: <a href="https://drive.google.com/file/d/1bkFlI5MDcat62lLcNzB3GpVYiOXQDabx/view?usp=sharing">WayEscape Demo</a>
+- Play Demo: <a href="https://kenanaegean.github.io/WayEscape-2D-Unity-Game-Demo/">WayEscape Demo</a>
+
+https://kenanaegean.github.io/WayEscape-2D-Unity-Game-Demo/
 
 <h3>DESCRIPTION</h3>
 Way Escape is my first fully-playeble game project. Actually I can easy to say It’is my first project too.
