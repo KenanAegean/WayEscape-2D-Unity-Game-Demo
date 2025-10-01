@@ -50,7 +50,7 @@ I may revisit it for a small “remaster” to reflect what I’ve learned since
 - **Developer:** Kenan Ege  
 - **Learning resources:** Udemy (Unity fundamentals)  
 - **Assets:** Various from Unity Asset Store and the web  
-  - If you see your asset here and want an explicit mention, please contact me—happy to add detailed credits.
+  - If you see your asset here and want an explicit mention, please contact me, happy to add detailed credits.
 
 ## Feedback
 
