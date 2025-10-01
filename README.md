@@ -26,7 +26,7 @@ This project marks the starting point of my journey to become a game developerâ€
 
 - **Move/Jump:** WASD/Arrow Keys + Space  
 - **Goal:** Navigate the level and find the way out  
-- **Tip:** Exploreâ€”it's a short demo, so try a few runs
+- **Tip:** Explore! It's a short demo, so try a few runs
 
 > If your build uses different controls, update this section to match.
 
